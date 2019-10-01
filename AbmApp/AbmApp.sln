@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbmApp", "AbmApp.csproj", "{538B7B67-56A8-4051-9B8B-EE0A1432B9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbmDataAccess", "..\AbmDataAccess\AbmDataAccess.csproj", "{D8B587FE-C8AA-42A6-BFF5-B0BACF817F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538B7B67-56A8-4051-9B8B-EE0A1432B9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538B7B67-56A8-4051-9B8B-EE0A1432B9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538B7B67-56A8-4051-9B8B-EE0A1432B9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538B7B67-56A8-4051-9B8B-EE0A1432B9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B587FE-C8AA-42A6-BFF5-B0BACF817F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B587FE-C8AA-42A6-BFF5-B0BACF817F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B587FE-C8AA-42A6-BFF5-B0BACF817F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B587FE-C8AA-42A6-BFF5-B0BACF817F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB5494F2-FF83-4444-814B-89A884AC94CB}
+	EndGlobalSection
+EndGlobal
